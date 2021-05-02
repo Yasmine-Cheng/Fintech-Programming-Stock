@@ -23,7 +23,7 @@
 
     本益比 = 股價100元/每年賺5元 = 20倍，換句話說需要20年才能回本。
 
-    ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/27104719-12d0-4c1b-affb-76d57727c1d0/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/27104719-12d0-4c1b-affb-76d57727c1d0/Untitled.png)
+    ![image](https://github.com/Yasmine-Cheng/Fintech-Programming-Stock/blob/main/test%20stage/PE_ratio.png)
 
 3. 為什麼使用本益比
 
